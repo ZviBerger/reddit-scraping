@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37464711-8796-480a-8d5a-fea56d7cf832" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pePTqdaRKo1JUQiPKOI6rYAgT2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/searchservice" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zvika\projects\visto\app\backend\searchservice" />
+      <recent name="C:\Users\Zvika\projects\visto\app\backend\scrapingservice" />
+      <recent name="C:\Users\Zvika\projects\visto\app\backend\storeservice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zvika\projects\visto\app\backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run (1)">
+    <configuration name="Scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ScrapingService" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScrapingService/Scraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapingservice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapingservice/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CashService" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CashService/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.Scraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37464711-8796-480a-8d5a-fea56d7cf832" name="Default Changelist" comment="" />
+      <created>1615540592490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615540592490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1615906366584">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834/13.-1080.1920.1050@0.0.1536.834" timestamp="1615906366584" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1615540856721" />
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom" timestamp="1615970098247">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098247" />
+    <state width="988" height="203" key="GridCell.Tab.0.bottom/0.0.1536.834/13.-1080.1920.1050@0.0.1536.834" timestamp="1615906367685" />
+    <state width="1515" height="205" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615967841827" />
+    <state width="1515" height="256" key="GridCell.Tab.0.center" timestamp="1615970098247">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098247" />
+    <state width="988" height="203" key="GridCell.Tab.0.center/0.0.1536.834/13.-1080.1920.1050@0.0.1536.834" timestamp="1615906367685" />
+    <state width="1515" height="205" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1615967841827" />
+    <state width="1515" height="256" key="GridCell.Tab.0.left" timestamp="1615970098247">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098247" />
+    <state width="988" height="203" key="GridCell.Tab.0.left/0.0.1536.834/13.-1080.1920.1050@0.0.1536.834" timestamp="1615906367684" />
+    <state width="1515" height="205" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1615967841823" />
+    <state width="1515" height="256" key="GridCell.Tab.0.right" timestamp="1615970098247">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098247" />
+    <state width="988" height="203" key="GridCell.Tab.0.right/0.0.1536.834/13.-1080.1920.1050@0.0.1536.834" timestamp="1615906367685" />
+    <state width="1515" height="205" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1615967841827" />
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom" timestamp="1615970098248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098248" />
+    <state width="1515" height="256" key="GridCell.Tab.1.center" timestamp="1615970098248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.center/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098248" />
+    <state width="1515" height="256" key="GridCell.Tab.1.left" timestamp="1615970098248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.left/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098248" />
+    <state width="1515" height="256" key="GridCell.Tab.1.right" timestamp="1615970098248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="256" key="GridCell.Tab.1.right/0.0.1536.834/0.-1080.1920.1050@0.0.1536.834" timestamp="1615970098248" />
+    <state x="668" y="-728" key="com.intellij.ide.util.TipDialog" timestamp="1615917488960">
+      <screen x="0" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="668" y="-728" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.-1080.1920.1050@0.-1080.1920.1050" timestamp="1615917488960" />
+  </component>
+</project>
